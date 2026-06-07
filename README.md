@@ -46,7 +46,7 @@ YourProjectFolder/
     │
     └───css/
             style.css     <-- Minified CSS
-
+```
 ---
 
 ## 📜 License
