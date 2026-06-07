@@ -46,3 +46,22 @@ YourProjectFolder/
     │
     └───css/
             style.css     <-- Minified CSS
+
+---
+
+## 📜 License
+
+This project is open-source software licensed under the **MIT License**. 
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
+
+---
+
+## 🏅 Acknowledgements & Core Engines
+
+This automated script is a wrapper bootstrapper built on top of world-class, open-source minification engines created by the community. Special thanks to the creators and maintainers of these excellent tools:
+
+* **[html-minifier](https://github.com/kangax/html-minifier)** – Created by **Juriy Zaytsev (@kangax)** and **Alex Lam S.L. (@alexlamsl)**. A highly configurable, JavaScript-based HTML compressor.
+* **[clean-css](https://github.com/clean-css/clean-css)** – Created and maintained by **Jakub Pawlowicz**. A fast, efficient, and deeply optimized Node.js engine for CSS minification.
+* **[Terser](https://github.com/terser/terser)** – Maintained by the **Terser community**. The industry-standard tool for modern JavaScript parsing, mangling, and compression.
+
